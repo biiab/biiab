@@ -16,6 +16,8 @@ I am a third-year Bachelor’s student in Computer Science and Engineering at In
   <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg">
 </div>
 
+![snake gif](https://github.com/biiab/biiab/blob/output/github-contribution-grid-snake.gif)
+
 ###### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ADD8E6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatrizagbraga/)
