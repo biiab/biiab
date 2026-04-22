@@ -18,10 +18,10 @@ jobs:
 
     steps:
       # Checkout the repository so the workflow can access it
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
 
       # Generate the snake animation based on GitHub contributions
-      - uses: Platane/snk@master
+      - uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: biiab # Replace with your GitHub username
@@ -33,7 +33,7 @@ jobs:
 
       # Commit and push generated files
       - name: Push changes
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@v0.8.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
