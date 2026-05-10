@@ -4,6 +4,50 @@ My name is **Beatriz Braga** and I am a third-year Bachelor’s student in Compu
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ADD8E6?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/beatrizagbraga/)
 [![Email](https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beatrizagbraga@gmail.com)
 
+### Main Projects
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Course</th>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/biiab/parking-lot-manager">parking-lot-manager</a></td>
+    <td>Algorithms and Data Structures</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/biiab/hva-zoo-management">hva-zoo-management</a></td>
+    <td>Object-Oriented Programming</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/biiab/kvs">kvs</a></td>
+    <td>Operating Systems</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/biiab/AI-nuruomino-solver">AI-nuruomino-solver</a></td>
+    <td>Artificial Intelligence</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/biiab/event-booking-server">event-booking-server</a></td>
+    <td>Computer Networks</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/biiab/blockchain">blockchain</a></td>
+    <td>Distributed Systems</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/biiab/humanaEthica">humanaEthica</a></td>
+    <td>Software Engineering</td>
+  </tr>
+
+</table>
+
 ---
 ### Tools and Languages
 
