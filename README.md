@@ -1,5 +1,5 @@
 ## 👩🏻‍💻 Hi there!
-My name is **Beatriz Braga** and I am a third-year Bachelor’s student in Computer Science and Engineering at Instituto Superior Técnico. I am enthusiastic about building a future in the tech industry and continuously work on developing my technical knowledge and practical skills through academic and personal projects.
+My name is **Beatriz Braga** and I am a Master’s student in Computer Science and Engineering at Instituto Superior Técnico. I am enthusiastic about building a future in the tech industry and continuously work on developing my technical knowledge and practical skills through academic and personal projects.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ADD8E6?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/beatrizagbraga/)
 [![Email](https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beatrizagbraga@gmail.com)
